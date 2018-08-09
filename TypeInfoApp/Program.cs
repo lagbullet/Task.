@@ -10,8 +10,8 @@ namespace TypeInfoApp
     {
         static void Main(string[] args)
         {
-            
-            TypeInfoClass Info = new TypeInfoClass("TypeInfoApp.TypeInfoClass");
+
+            TypeInfo Info = new TypeInfo("TypeInfoApp.TypeInfo");
             Info.ShowAll();
             Console.ReadKey();
         }
