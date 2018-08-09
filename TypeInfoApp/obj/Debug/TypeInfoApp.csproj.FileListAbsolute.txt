@@ -1,0 +1,7 @@
+C:\Users\Alexander\source\repos\TypeInfoApp\TypeInfoApp\bin\Debug\TypeInfoApp.exe.config
+C:\Users\Alexander\source\repos\TypeInfoApp\TypeInfoApp\bin\Debug\TypeInfoApp.exe
+C:\Users\Alexander\source\repos\TypeInfoApp\TypeInfoApp\bin\Debug\TypeInfoApp.pdb
+C:\Users\Alexander\source\repos\TypeInfoApp\TypeInfoApp\obj\Debug\TypeInfoApp.csprojAssemblyReference.cache
+C:\Users\Alexander\source\repos\TypeInfoApp\TypeInfoApp\obj\Debug\TypeInfoApp.csproj.CoreCompileInputs.cache
+C:\Users\Alexander\source\repos\TypeInfoApp\TypeInfoApp\obj\Debug\TypeInfoApp.exe
+C:\Users\Alexander\source\repos\TypeInfoApp\TypeInfoApp\obj\Debug\TypeInfoApp.pdb
